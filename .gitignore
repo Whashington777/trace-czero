@@ -1,0 +1,6 @@
+/build*/
+/dist/
+*.log
+__pycache__/
+.vscode/
+.idea/
